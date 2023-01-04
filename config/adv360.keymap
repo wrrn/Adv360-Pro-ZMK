@@ -68,8 +68,8 @@
             bindings = <
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans     &trans  &trans  &trans  &trans  &trans
  &trans   &kp Q   &kp W   &kp E   &kp R   &kp T            &trans  &trans  &trans      &kp I   &none  &trans   &kp P  &trans
- &trans   &kp A   &kp S   &kp D   &kp F   &kp G            &trans  &trans  &trans                     &trans  &trans  &trans   &none   &none           &none            &none  &kp COMMA  &trans
- &trans   &kp Z   &kp X   &none   &none   &kp B            &trans  &trans  &trans     &trans  &trans  &trans  &trans  &trans   &none  &trans  &kp LEFT_ARROW  &kp RIGHT_ARROW    &kp DOT  &trans
+ &trans   &kp A   &kp S   &kp D   &kp F   &kp G            &trans  &trans  &trans                     &trans  &trans  &trans   &kp H   &kp J           &kp K            &kp L  &kp COMMA  &trans
+ &trans   &kp Z   &kp X   &none   &none   &kp B            &trans  &trans  &trans     &trans  &trans  &trans  &trans  &trans   &kp N  &trans  &kp LEFT_ARROW  &kp RIGHT_ARROW    &kp DOT  &trans
  &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &kp ENTER  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
