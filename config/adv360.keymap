@@ -66,11 +66,11 @@
 
         layer_Amethsyt {
             bindings = <
- &none  &none  &none  &none  &none  &none            &none  &none  &none     &none  &none  &none  &none  &none
- &none   &kp LS(LA(Q))   &kp LS(LA(W))   &kp LS(LA(E))   &kp LS(LA(R))   &kp LS(LA(T))            &none  &none  &none      &kp LS(LA(I))   &none  &none   &kp LS(LA(P))  &none
- &none   &kp LS(LA(A))   &kp LS(LA(S))   &kp LS(LA(D))   &kp LS(LA(F))   &kp LS(LA(G))            &none  &none  &none                     &none  &none  &none   &kp LS(LA(H))   &kp LS(LA(J))           &kp LS(LA(K))            &kp LS(LA(L))  &kp LS(LA(COMMA))  &none
- &none   &kp LS(LA(Z))   &kp LS(LA(X))   &none   &none   &kp LS(LA(B))            &none  &none  &none     &none  &none  &none  &none  &none   &kp LS(LA(N))  &none  &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)    &kp LS(LA(DOT))  &none
- &none  &none  &none  &none  &none  &none            &none  &none  &none  &kp LS(LA(ENTER))  &none  &none  &none  &none  &none  &none
+  &none          &none          &none          &none          &none                 &none            &none   &none   &none              &none   &none   &none          &none   &none
+  &none  &kp LS(LA(Q))  &kp LS(LA(W))  &kp LS(LA(E))  &kp LS(LA(R))         &kp LS(LA(T))            &none   &none   &none      &kp LS(LA(I))   &none   &none  &kp LS(LA(P))   &none
+  &none  &kp LS(LA(A))  &kp LS(LA(S))  &kp LS(LA(D))  &kp LS(LA(F))         &kp LS(LA(G))            &none   &none   &none                              &none          &none   &none  &kp LS(LA(H))  &kp LS(LA(J))       &kp LS(LA(K))        &kp LS(LA(L))  &kp LS(LA(COMMA))   &none
+  &none  &kp LS(LA(Z))  &kp LS(LA(X))          &none          &none         &kp LS(LA(B))            &none   &none   &none              &none   &none   &none          &none   &none  &kp LS(LA(N))          &none  &kp LC(LEFT_ARROW)  &kp LC(RIGHT_ARROW)    &kp LS(LA(DOT))   &none
+  &none          &none          &none          &none          &none  &kp LC(LS(LEFT_ALT))            &none   &none   &none  &kp LS(LA(ENTER))   &none   &none          &none   &none          &none          &none
             >;
         };
 
